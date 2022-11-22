@@ -1,4 +1,6 @@
-### Hi there 👋
+![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=lolomap&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolomap&hide=prolog)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lolomap/lolomap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
